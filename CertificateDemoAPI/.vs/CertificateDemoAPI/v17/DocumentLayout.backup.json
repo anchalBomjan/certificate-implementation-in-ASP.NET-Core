@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\utils\\certificategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\utils\\certificategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\services\\idigitalsignatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\services\\idigitalsignatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\services\\icertificatevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\services\\icertificatevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\services\\digitalsignatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\services\\digitalsignatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\services\\certificatevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\services\\certificatevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\middleware\\clientcertificatemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\middleware\\clientcertificatemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\certificatedemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\certificatedemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\models\\certificateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\models\\certificateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificatedemoapi\\certificatedemoapi\\models\\verifyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF4090-CF7E-4E40-AD91-6B06245E9D3D}|CertificateDemoAPI\\CertificateDemoAPI.csproj|solutionrelative:certificatedemoapi\\models\\verifyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Program.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Program.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:51:26.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:04:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICertificateValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\ICertificateValidationService.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Services\\ICertificateValidationService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\ICertificateValidationService.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Services\\ICertificateValidationService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:13:46.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DigitalSignatureService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\DigitalSignatureService.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Services\\DigitalSignatureService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\DigitalSignatureService.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Services\\DigitalSignatureService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:15:20.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDigitalSignatureService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\IDigitalSignatureService.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Services\\IDigitalSignatureService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\IDigitalSignatureService.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Services\\IDigitalSignatureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:14:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CertificateController.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\CertificateController.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Controllers\\CertificateController.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\CertificateController.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Controllers\\CertificateController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:14:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificateGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Utils\\CertificateGenerator.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Utils\\CertificateGenerator.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Utils\\CertificateGenerator.cs*",
+              "RelativeToolTip": "CertificateDemoAPI\\Utils\\CertificateGenerator.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:57:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:52:23.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CertificateValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\CertificateValidationService.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Services\\CertificateValidationService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Services\\CertificateValidationService.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Services\\CertificateValidationService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:14:10.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Controllers\\SecureController.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:48:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CertificateDemoAPI",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\CertificateDemoAPI.csproj",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\CertificateDemoAPI.csproj",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\CertificateDemoAPI.csproj",
+              "RelativeToolTip": "CertificateDemoAPI\\CertificateDemoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T07:15:41.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientCertificateMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Middleware\\ClientCertificateMiddleware.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Middleware\\ClientCertificateMiddleware.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Middleware\\ClientCertificateMiddleware.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Middleware\\ClientCertificateMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:23:19.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\appsettings.json",
+              "RelativeToolTip": "CertificateDemoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T08:25:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CertificateInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Models\\CertificateInfo.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Models\\CertificateInfo.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Models\\CertificateInfo.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Models\\CertificateInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:16:12.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VerifyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Models\\VerifyRequest.cs",
+              "RelativeDocumentMoniker": "CertificateDemoAPI\\Models\\VerifyRequest.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificateDemoAPI\\CertificateDemoAPI\\Models\\VerifyRequest.cs",
+              "RelativeToolTip": "CertificateDemoAPI\\Models\\VerifyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:16:48.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
