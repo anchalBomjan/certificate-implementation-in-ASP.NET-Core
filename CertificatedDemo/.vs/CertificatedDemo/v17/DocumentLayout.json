@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\certificateddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\certificateddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "CertificatedDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\appsettings.json",
+              "RelativeToolTip": "CertificatedDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T16:38:28.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CertificatedDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T16:38:05.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertificatedDemo",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\CertificatedDemo.csproj",
+              "RelativeDocumentMoniker": "CertificatedDemo\\CertificatedDemo.csproj",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\CertificatedDemo.csproj",
+              "RelativeToolTip": "CertificatedDemo\\CertificatedDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T15:53:10.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
