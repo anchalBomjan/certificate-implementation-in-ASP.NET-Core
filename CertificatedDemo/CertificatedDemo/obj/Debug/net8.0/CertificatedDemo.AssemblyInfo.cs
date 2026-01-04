@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CertificatedDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0514540e8912e97ca1deabc0bb80245563c8f2a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19637e103f8859805bfaec7d21ed82636bdf2274")]
 [assembly: System.Reflection.AssemblyProductAttribute("CertificatedDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CertificatedDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
