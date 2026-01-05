@@ -17,75 +17,68 @@ namespace CertificatedDemo.Services
 
         public bool ValidateCertificate(X509Certificate2 certificate)
         {
+            if (certificate == null)
+            {
+                _logger.LogWarning("Client certificate is null.");
+                return false;
+            }
+
+            _logger.LogInformation("Validating client certificate: {Subject}", certificate.Subject);
+
+            // 1. Check time validity
+            if (DateTime.UtcNow < certificate.NotBefore || DateTime.UtcNow > certificate.NotAfter)
+            {
+                _logger.LogWarning("Certificate is outside its validity period. Valid from {NotBefore} to {NotAfter}.",
+                    certificate.NotBefore, certificate.NotAfter);
+                return false;
+            }
+
+            // 2. Check against custom CA
+            var caPath = "certificates/ca.crt";
+            if (!File.Exists(caPath))
+            {
+                _logger.LogError("Root CA certificate not found at {Path}. Cannot validate certificate chain.", caPath);
+                return false; // Fail validation if CA is missing
+            }
+
             try
             {
-                if (certificate == null)
-                {
-                    _logger.LogWarning("Certificate is null");
-                    return false;
-                }
+                var rootCaCert = new X509Certificate2(caPath);
+                using var chain = new X509Chain();
+                chain.ChainPolicy.ExtraStore.Add(rootCaCert);
+                chain.ChainPolicy.RevocationMode = X509RevocationMode.NoCheck; // No revocation for demo
+                chain.ChainPolicy.VerificationFlags = X509VerificationFlags.AllowUnknownCertificateAuthority;
 
-                // Check validity period
-                if (DateTime.Now < certificate.NotBefore)
-                {
-                    _logger.LogWarning("Certificate {Subject} is not valid yet (Valid from: {NotBefore})",
-                        certificate.Subject, certificate.NotBefore);
-                    return false;
-                }
 
-                if (DateTime.Now > certificate.NotAfter)
-                {
-                    _logger.LogWarning("Certificate {Subject} has expired (Expired on: {NotAfter})",
-                        certificate.Subject, certificate.NotAfter);
-                    return false;
-                }
+                bool isValid = chain.Build(certificate);
 
-                // For demo with OpenSSL-generated certificates, check if issued by our CA
-                var caPath = "certificates/ca.crt"; // Updated path
-                if (File.Exists(caPath))
+                if (!isValid)
                 {
-                    try
+                    foreach (var status in chain.ChainStatus)
                     {
-                        var rootCert = new X509Certificate2(caPath);
-
-                        // Check if certificate is issued by our CA
-                        if (certificate.Issuer.Contains("CertificatedDemo Root CA"))
-                        {
-                            _logger.LogInformation("Certificate {Subject} issued by CertificatedDemo Root CA",
-                                certificate.Subject);
-                            return true;
-                        }
-                        else if (certificate.Issuer == certificate.Subject)
-                        {
-                            _logger.LogInformation("Certificate {Subject} is self-signed", certificate.Subject);
-                            // Accept self-signed for demo
-                            return true;
-                        }
-                        else
-                        {
-                            _logger.LogWarning("Certificate {Subject} not issued by our CA", certificate.Subject);
-                            // For demo, still accept it
-                            return true;
-                        }
+                        _logger.LogWarning("Chain status: {Status}, {StatusInformation}", status.Status, status.StatusInformation.Trim());
                     }
-                    catch (Exception ex)
-                    {
-                        _logger.LogWarning(ex, "Error validating certificate against CA");
-                        // Continue anyway for demo
-                    }
+                    _logger.LogWarning("Certificate chain validation failed for {Subject}.", certificate.Subject);
+                    return false;
                 }
-                else
+
+                // Check if the chain is rooted in our custom CA
+                var isTrusted = chain.ChainElements
+                                     .Cast<X509ChainElement>()
+                                     .Any(elem => elem.Certificate.Thumbprint == rootCaCert.Thumbprint);
+
+                if (!isTrusted)
                 {
-                    _logger.LogWarning("CA certificate not found at {Path}", caPath);
+                    _logger.LogWarning("Certificate {Subject} is not trusted by our custom CA.", certificate.Subject);
+                    return false;
                 }
 
-                // Accept certificate for demo (since we're using self-signed/OpenSSL certs)
-                _logger.LogInformation("Accepted certificate {Subject} for demo purposes", certificate.Subject);
+                _logger.LogInformation("Certificate {Subject} successfully validated against custom CA.", certificate.Subject);
                 return true;
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Certificate validation failed");
+                _logger.LogError(ex, "An error occurred during certificate chain validation.");
                 return false;
             }
         }

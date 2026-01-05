@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Migrations\\20260105101931_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CertificatedDemo\\Migrations\\20260105101931_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\certificates\\ca.crt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\certificates\\ca.crt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\certificateddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\certificateddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,28 +51,12 @@
       "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\services\\documentsigningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\middleware\\certificateloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\middleware\\certificateloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\data\\productseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\models\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|c:\\users\\ancha\\desktop\\demo project  for certificate\\certificateddemo\\certificateddemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AE534E-C629-4A40-B14E-4038EC1E33D5}|CertificatedDemo\\CertificatedDemo.csproj|solutionrelative:certificateddemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,63 +122,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 24,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Program.cs",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Program.cs",
-              "RelativeToolTip": "CertificatedDemo\\Program.cs",
-              "ViewState": "AgIAALMCAAAAAAAAAAAswMYCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:56:42.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CertificatedDemo\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-04T16:38:05.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CertificateInfoService.cs",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\CertificateInfoService.cs",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Services\\CertificateInfoService.cs",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\CertificateInfoService.cs",
-              "RelativeToolTip": "CertificatedDemo\\Services\\CertificateInfoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAABAAAAAAAAAA==",
+              "Title": "20260105101931_init.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Migrations\\20260105101931_init.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Migrations\\20260105101931_init.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Migrations\\20260105101931_init.cs",
+              "RelativeToolTip": "CertificatedDemo\\Migrations\\20260105101931_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:00:57.2Z",
+              "WhenOpened": "2026-01-05T10:19:31.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DocumentSigningService.cs",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\DocumentSigningService.cs",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Services\\DocumentSigningService.cs",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\DocumentSigningService.cs",
-              "RelativeToolTip": "CertificatedDemo\\Services\\DocumentSigningService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:02:04.948Z",
+              "Title": "ca.crt",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\certificates\\ca.crt",
+              "RelativeDocumentMoniker": "CertificatedDemo\\certificates\\ca.crt",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\certificates\\ca.crt",
+              "RelativeToolTip": "CertificatedDemo\\certificates\\ca.crt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-01-05T10:16:22.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CertificatedDemo.csproj",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\CertificatedDemo.csproj",
               "RelativeDocumentMoniker": "CertificatedDemo\\CertificatedDemo.csproj",
@@ -178,12 +160,111 @@
               "RelativeToolTip": "CertificatedDemo\\CertificatedDemo.csproj",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-04T15:53:10.87Z",
+              "WhenOpened": "2026-01-04T15:53:10.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\SeedData.cs",
+              "RelativeToolTip": "CertificatedDemo\\Data\\SeedData.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:07:05.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CertificatedDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T17:07:46.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "CertificatedDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\appsettings.json",
+              "RelativeToolTip": "CertificatedDemo\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T16:38:28.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentSigningService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\DocumentSigningService.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Services\\DocumentSigningService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\DocumentSigningService.cs",
+              "RelativeToolTip": "CertificatedDemo\\Services\\DocumentSigningService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:02:04.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CertificatedDemo\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:58:11.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CertificatedDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T16:38:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CertificateInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\CertificateInfoService.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Services\\CertificateInfoService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\CertificateInfoService.cs",
+              "RelativeToolTip": "CertificatedDemo\\Services\\CertificateInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:00:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CertificatedDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Program.cs",
+              "RelativeToolTip": "CertificatedDemo\\Program.cs",
+              "ViewState": "AgIAALMCAAAAAAAAAAAswMYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:56:42.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CertificateValidationService.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\CertificateValidationService.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Services\\CertificateValidationService.cs",
@@ -191,25 +272,11 @@
               "RelativeToolTip": "CertificatedDemo\\Services\\CertificateValidationService.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAswMIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:25:55.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:25:55.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "CertificatedDemo\\appsettings.json",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\appsettings.json",
-              "RelativeToolTip": "CertificatedDemo\\appsettings.json",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwEcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-04T16:38:28.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CertificatesController.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Controllers\\CertificatesController.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Controllers\\CertificatesController.cs",
@@ -217,12 +284,11 @@
               "RelativeToolTip": "CertificatedDemo\\Controllers\\CertificatesController.cs",
               "ViewState": "AgIAAAUBAAAAAAAAAAA5wCMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:48:16.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:48:16.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "CertificateLoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Middleware\\CertificateLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Middleware\\CertificateLoggingMiddleware.cs",
@@ -230,25 +296,11 @@
               "RelativeToolTip": "CertificatedDemo\\Middleware\\CertificateLoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:31:49.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:31:49.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CertificatedDemo\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:07:46.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ProductSeed.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\ProductSeed.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Data\\ProductSeed.cs",
@@ -256,12 +308,11 @@
               "RelativeToolTip": "CertificatedDemo\\Data\\ProductSeed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:22:30.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:22:30.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CommonModels.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\CommonModels.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\CommonModels.cs",
@@ -269,25 +320,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\CommonModels.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAkwFIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:04:01.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:04:01.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Data\\SeedData.cs",
-              "RelativeToolTip": "CertificatedDemo\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:07:05.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Controllers\\UserController.cs",
@@ -295,12 +332,11 @@
               "RelativeToolTip": "CertificatedDemo\\Controllers\\UserController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAArwC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:49:24.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:49:24.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Controllers\\AuthController.cs",
@@ -308,12 +344,11 @@
               "RelativeToolTip": "CertificatedDemo\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAswNkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:27:30.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:27:30.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Services\\TokenService.cs",
@@ -321,12 +356,11 @@
               "RelativeToolTip": "CertificatedDemo\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:24:57.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:24:57.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Services\\ITokenService.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Services\\ITokenService.cs",
@@ -334,12 +368,11 @@
               "RelativeToolTip": "CertificatedDemo\\Services\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:24:28.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:24:28.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Permissions.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\Permissions.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\Permissions.cs",
@@ -347,25 +380,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\Permissions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:06:26.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:06:26.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "CertificatedDemo\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "CertificatedDemo\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:58:11.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\UserResponse.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\UserResponse.cs",
@@ -373,12 +392,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\UserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:04:19.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:04:19.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\Product.cs",
@@ -386,12 +404,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:58:45.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:58:45.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\AuthResponse.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\AuthResponse.cs",
@@ -399,12 +416,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:05:23.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:05:23.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ClaimResponse.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\ClaimResponse.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\ClaimResponse.cs",
@@ -412,12 +428,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\ClaimResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:04:58.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:04:58.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ChangePasswordModel.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\ChangePasswordModel.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\ChangePasswordModel.cs",
@@ -425,12 +440,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\ChangePasswordModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:03:47.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:03:47.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\LoginModel.cs",
@@ -438,12 +452,11 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T17:00:22.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:00:22.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\Demo project  for Certificate\\CertificatedDemo\\CertificatedDemo\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "CertificatedDemo\\Models\\RegisterModel.cs",
@@ -451,8 +464,7 @@
               "RelativeToolTip": "CertificatedDemo\\Models\\RegisterModel.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:59:35.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:59:35.838Z"
             }
           ]
         },

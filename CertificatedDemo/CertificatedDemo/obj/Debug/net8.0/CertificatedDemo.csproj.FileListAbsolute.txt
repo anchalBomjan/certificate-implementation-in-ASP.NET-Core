@@ -133,7 +133,6 @@ C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\Certificat
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\Certific.6A4864AA.Up2Date
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\CertificatedDemo.dll
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\refint\CertificatedDemo.dll
@@ -141,3 +140,4 @@ C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\Certificat
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\CertificatedDemo.genruntimeconfig.cache
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\ref\CertificatedDemo.dll
 C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\ancha\Desktop\Demo project  for Certificate\CertificatedDemo\CertificatedDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

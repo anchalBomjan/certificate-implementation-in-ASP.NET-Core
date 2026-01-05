@@ -559,7 +559,7 @@ if (File.Exists(sslCertPath))
 
                 // Enable client certificate for mTLS (optional)
                 httpsOptions.ClientCertificateMode =
-                    Microsoft.AspNetCore.Server.Kestrel.Https.ClientCertificateMode.AllowCertificate;
+                    Microsoft.AspNetCore.Server.Kestrel.Https.ClientCertificateMode.DelayCertificate;
                 httpsOptions.CheckCertificateRevocation = false; // For demo with self-signed certs
 
                 Console.WriteLine($"✅ SSL Certificate loaded for HTTPS: {sslCert.Subject}");
