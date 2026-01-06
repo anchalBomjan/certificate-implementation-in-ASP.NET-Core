@@ -187,7 +187,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/StringStringStringBooleanStringDateTimeStringStringStringBooleanString<>f__AnonymousType31IEnumerableStringStringStringStringStringStringStringStringString<>f__AnonymousType32<>f__AnonymousType30"
+                  "$ref": "#/components/schemas/StringStringStringBooleanStringDateTimeStringStringStringBooleanString<>f__AnonymousType32IEnumerableStringStringStringStringStringStringStringStringString<>f__AnonymousType33<>f__AnonymousType31"
                 }
               }
             }
@@ -206,7 +206,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/StringDateTimeTimeSpanStringStringDictionaryStringStringString<>f__AnonymousType34<>f__AnonymousType33"
+                  "$ref": "#/components/schemas/StringDateTimeTimeSpanStringStringDictionaryStringStringString<>f__AnonymousType35<>f__AnonymousType34"
                 }
               }
             }
@@ -312,10 +312,135 @@
         }
       }
     },
-    "/api/Certificates/test/mtls": {
+    "/api/Certificates/test/mtls-simple": {
       "get": {
         "tags": [
           "Certificates"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Product": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Product"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Product/{id}": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -711,6 +836,43 @@
         },
         "additionalProperties": false
       },
+      "ProductDto": {
+        "required": [
+          "name",
+          "price",
+          "quantity"
+        ],
+        "type": "object",
+        "properties": {
+          "name": {
+            "maxLength": 200,
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
+            "maxLength": 1000,
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "category": {
+            "maxLength": 100,
+            "type": "string",
+            "nullable": true
+          },
+          "isActive": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "RegisterModel": {
         "required": [
           "email",
@@ -774,7 +936,7 @@
         },
         "additionalProperties": false
       },
-      "StringDateTimeTimeSpanStringStringDictionaryStringStringString<>f__AnonymousType34<>f__AnonymousType33": {
+      "StringDateTimeTimeSpanStringStringDictionaryStringStringString<>f__AnonymousType35<>f__AnonymousType34": {
         "type": "object",
         "properties": {
           "status": {
@@ -802,12 +964,12 @@
             "nullable": true
           },
           "authentication": {
-            "$ref": "#/components/schemas/StringString<>f__AnonymousType34"
+            "$ref": "#/components/schemas/StringString<>f__AnonymousType35"
           }
         },
         "additionalProperties": false
       },
-      "StringString<>f__AnonymousType34": {
+      "StringString<>f__AnonymousType35": {
         "type": "object",
         "properties": {
           "jwt": {
@@ -821,7 +983,7 @@
         },
         "additionalProperties": false
       },
-      "StringStringBooleanString<>f__AnonymousType31": {
+      "StringStringBooleanString<>f__AnonymousType32": {
         "type": "object",
         "properties": {
           "name": {
@@ -842,7 +1004,7 @@
         },
         "additionalProperties": false
       },
-      "StringStringStringBooleanStringDateTimeStringStringStringBooleanString<>f__AnonymousType31IEnumerableStringStringStringStringStringStringStringStringString<>f__AnonymousType32<>f__AnonymousType30": {
+      "StringStringStringBooleanStringDateTimeStringStringStringBooleanString<>f__AnonymousType32IEnumerableStringStringStringStringStringStringStringStringString<>f__AnonymousType33<>f__AnonymousType31": {
         "type": "object",
         "properties": {
           "application": {
@@ -875,17 +1037,17 @@
           "certificate_Status": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/StringStringBooleanString<>f__AnonymousType31"
+              "$ref": "#/components/schemas/StringStringBooleanString<>f__AnonymousType32"
             },
             "nullable": true
           },
           "endpoints": {
-            "$ref": "#/components/schemas/StringStringStringStringStringStringStringStringString<>f__AnonymousType32"
+            "$ref": "#/components/schemas/StringStringStringStringStringStringStringStringString<>f__AnonymousType33"
           }
         },
         "additionalProperties": false
       },
-      "StringStringStringStringStringStringStringStringString<>f__AnonymousType32": {
+      "StringStringStringStringStringStringStringStringString<>f__AnonymousType33": {
         "type": "object",
         "properties": {
           "swagger_UI": {

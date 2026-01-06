@@ -205,7 +205,7 @@ namespace CertificatedDemo.Controllers
             }
         }
 
-        [HttpGet("test/mtls")]
+        [HttpGet("test/mtls-simple")]
         [Authorize(AuthenticationSchemes = "Certificate")]
         public IActionResult TestMTLS()
         {
